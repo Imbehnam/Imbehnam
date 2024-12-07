@@ -1,4 +1,4 @@
-<h3 align="left">Hi 👋! My name is Behnam and I'm a FullStack web developer</h3>
+<h3 align="center">Hi 👋! My name is Behnam and I'm a FullStack web developer</h3>
 
 ### 
 
